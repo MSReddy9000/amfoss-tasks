@@ -1,4 +1,4 @@
-# **My way to install Ubuntu 20.04.1 LTS**
+# **0. Install Ubuntu 20.04 [Desktop]**
 ## **Attempt 1: Dual-boot Installation**
 *I used rufus to flash the .iso to a flash drive. I successfully managed to boot through the usb but, was soon prompted that my hard drives used Intel RST and I had to disable it. I referred to the official guide offered by Ubuntu but, they mentioned that there was a pretty good chance of soft-bricking the PC. I went ahead and disabled RST anyways. Now, Windows refused to boot. So, Attempt 1 is a failure.*
 ## **Attempt 2: Installing Ubuntu 18.04.5 LTS**
