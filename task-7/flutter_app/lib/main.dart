@@ -33,7 +33,7 @@ class _MyAppState extends State<MyApp> {
           child: SizedBox(
             child: FloatingActionButton(
               onPressed: () {},
-              shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular((20))),
+              shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular((10))),
               backgroundColor: Colors.deepPurpleAccent[400],
               child: new Text("Create an account", style: TextStyle(fontSize: 18)),
             ),
@@ -45,12 +45,12 @@ class _MyAppState extends State<MyApp> {
             children: <Widget>[
               Container(
                 child: Image(
-                  image: AssetImage('assets/images/art-cloud1.jpg')
+                  image: AssetImage('assets/images/art-cloud.jpg')
                     )
                   ),
             Container(
               child: Image(
-                image: AssetImage('assets/images/art-stairs1.jpg')
+                image: AssetImage('assets/images/art-stairs.jpg')
               ),
             ),
           ],
@@ -67,7 +67,9 @@ class _MyAppState extends State<MyApp> {
                       controller: _pageViewController,
                       count: 2,
                       effect: ExpandingDotsEffect(
-                        expansionFactor: 8,
+                        expansionFactor: 13,
+                        dotWidth: 10.0,
+                        dotHeight: 10.0,
                         activeDotColor: Colors.deepPurpleAccent[400],
                       ),
                     )
