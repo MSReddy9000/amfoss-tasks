@@ -80,7 +80,7 @@ I searched for "multipy" and found 3 instances. I added an 'l' to all of them
 **6. The operations displayed in the checkboxes didn't match the question being displayed on the screen. Addition was displaying and accepting "multiplication", Subtract was displaying "-" but accepting "/", multiplication was displaying and accepting "+", division was displaying "multiplication".**
 ### **How I found it**
 I may have mashed my LMB on Start and Stop too many times
-### **The fix*
+### **The fix**
 I searched the program to see the if statement used to decide the output. I found the "operator" variable handling all that. I searched for operator and found all the abnormalities in the code. There were two such pieces of code in the file. One for the first time and one for regenerating. I replaced all the wrong operators with the proper ones including the ones being displayed on the screen\
 
 **7. The division operator was accepting the "quotient" of the answer, not the answer with decimal places.**
