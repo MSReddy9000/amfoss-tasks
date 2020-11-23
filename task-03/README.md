@@ -62,7 +62,7 @@ PyPy3 Compiler
 1. I gotta hand it to PyPy3 here, it got me 12 extra points for the exact same code when compared to Python 3 :kek:
 ### **Points Obtained**
 42.86/100
-## **7. The D --> TheD.py**
+## **8. The D --> TheD.py**
 ### **Final Submission Interpreter/Compiler**
 Python 3 Interpreter
 ### **Algorithm Used**
@@ -70,7 +70,7 @@ Python 3 Interpreter
 2. I just manually typed out the D's for n=3 to n=29...............................................no comments here
 ### **Points Obtained**
 100/100
-## **8. Homework Time --> HomeworkTime.py**
+## **9. Homework Time --> HomeworkTime.py**
 ### **Final Submission Interpreter/Compiler**
 Python 3 Interpreter
 ### **Algorithm Used**
@@ -81,7 +81,7 @@ Python 3 Interpreter
 5. The required index will be called and reversed using [::-1] and all the leading zeros will be popped off using .lstrip("0")
 ### **Points Obtained**
 100/100
-## **9. Minimum Ninja Sum --> MinimumNinjaSum.py**
+## **10. Minimum Ninja Sum --> MinimumNinjaSum.py**
 ### **Final Submission Interpreter/Compiler**
 Python 3 Interpreter
 ### **Algorithm Used**
