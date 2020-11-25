@@ -1,6 +1,6 @@
 # **14. Bandit**
 ## **Method of Approach**
-*I thought these were pretty difficult questions but, they weren't at all. They took me less than an hr to research and complete. The password of each level will be uploaded to their respective folder. All the commands I used to arrive to the solution will be posted here.*
+I thought these were pretty difficult questions but, they weren't at all. They took me less than an hr to research and complete. The password of each level will be uploaded to their respective folder. All the commands I used to arrive to the solution will be posted here.
 ### **level-0**
 Commands used:\
 ls\
