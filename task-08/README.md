@@ -1,6 +1,6 @@
 # **8. Sir Perceval’s quest**
 ## **Method of Approach**
-*This task was pretty straightforward. I went ahead and downloaded the perceval tool and all it's dependencies. This .py script I used has a LOT of shell commands for creating and deleting files and they're specific to Linux-based systems. This is how I approached the task:*
+This task was pretty straightforward. I went ahead and downloaded the perceval tool and all it's dependencies. This .py script I used has a LOT of shell commands for creating and deleting files and they're specific to Linux-based systems. This is how I approached the task:
 1. Using the os package provided by Python, I made use of "curl" to download the .json file listing all repositories in the organization "amfoss". I named the .json file "repo_list.json" This script works for any organization, just have to change the starting organization variable.
 2. Using the json package, I loaded the whole file into a Python list and stored in the "data" variable. Here I deleted the repo_list.json file as I had no more use for it.
 3. Then, I went searching through the list for the name of each repository and stored it into another list called "res"
