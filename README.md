@@ -31,5 +31,5 @@ Well..... tbh idk lol. Right when I was starting to solve the problems in Task-3
 On every page, this "PyPy3" kept popping up. So, I did a bit of research about it and after managing to drag myself through all the technical abracadabra, I managed to piece together a simple sentence: “If you want your code to run faster, you should probably just use PyPy.” — Guido van Rossum\
 So, yeah I experimented with PyPy3 a lot while solving these tasks.
 ### **Why did I use Python wherever I can, when I could've used C/C++ or something else?**
-Yeah, this one is simple. Cuz Python is the only language that I know something about. Yes, I know a bit of C and C++ but, at the time of writing I'm more comfortable with coding in Python when compared to C/C++
+Yeah, this one is simple. Cuz Python is the only language that I know something about. Yes, I learnt a bit of C and C++ from those bi0s tasks but, at the time of writing I'm more comfortable with coding in Python when compared to C/C++
 ## **So, who's this MSReddy character?**
