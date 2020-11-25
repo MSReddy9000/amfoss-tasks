@@ -8,6 +8,7 @@ I'm MSReddy, a fresher at Amrita Vishwa Vidyapeetham (School of Engineering), Am
 | [Task-02](https://github.com/ashishreddy9000/amfoss-tasks/tree/main/task-02) | **Register your nick in IRC Freenode** |
 | [Task-03](https://github.com/ashishreddy9000/amfoss-tasks/tree/main/task-03) | **Programming** |
 | [Task-04](https://github.com/ashishreddy9000/amfoss-tasks/tree/main/task-04) | **Debugging Derbies** |
+| [Task-06](https://github.com/ashishreddy9000/amfoss-tasks/tree/main/task-06) | **Geddit** |
 | [Task-07](https://github.com/ashishreddy9000/amfoss-tasks/tree/main/task-07) | **Ubiquitous UI** |
 | [Task-08](https://github.com/ashishreddy9000/amfoss-tasks/tree/main/task-08) | **Sir Perceval’s quest** |
 | [Task-09](https://github.com/ashishreddy9000/amfoss-tasks/tree/main/task-09) | **Spammer_Spaghetti** |
