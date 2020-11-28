@@ -1,0 +1,2 @@
+# **11. Poster Design (Bonus points if attempted)**
+Nothing much to add here. I used canva.com's pro version (I got myself permanent canva pro, just don't ask me how :p) and an old pic of mine. I did a lot of experimenting before arriving to this design. I know that it ain't a great poster. I'm not exactly the "artistic" type but, it conveys the message I want it to convey. Hope, you can figure it out! :thumbsup:

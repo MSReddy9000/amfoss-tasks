@@ -1,5 +1,5 @@
 # **amFOSS Tasks - Manda Snehashish Reddy**
-I'm MSReddy, a fresher at Amrita Vishwa Vidyapeetham (School of Engineering), Amritapuri [CSE 2020-24 batch]
+ I am MSReddy, a fresher at Amrita Vishwa Vidyapeetham (School of Engineering), Amritapuri [CSE 2020-24 batch]
 ## **Table of Contents**
 | Task Number    | Title |     
 | :------------- | :----------: |
@@ -12,28 +12,24 @@ I'm MSReddy, a fresher at Amrita Vishwa Vidyapeetham (School of Engineering), Am
 | [Task-07](https://github.com/ashishreddy9000/amfoss-tasks/tree/main/task-07) | **Ubiquitous UI** |
 | [Task-08](https://github.com/ashishreddy9000/amfoss-tasks/tree/main/task-08) | **Sir Perceval’s quest** |
 | [Task-09](https://github.com/ashishreddy9000/amfoss-tasks/tree/main/task-09) | **Spammer_Spaghetti** |
+| [Task-11](https://github.com/ashishreddy9000/amfoss-tasks/tree/main/task-11) | **Poster Design** |
 | [Task-12](https://github.com/ashishreddy9000/amfoss-tasks/tree/main/task-12) | **If maths was fun :P** |
 | [Task-14](https://github.com/ashishreddy9000/amfoss-tasks/tree/main/task-14) | **Bandit** |
 | [Task-15](https://github.com/ashishreddy9000/amfoss-tasks/tree/main/task-15) | **Project Euler (for math geeks)** |\
 
 ## QnA
 Some questions that might arise in the mind of the reader while going through this repo
-### **Why didn't I attempt Task-05?**
-Oh, I attempted it all right. But, this task proved to be more of a headache than I had expected. There was minimal doocumentation about web scraping. All I managed to find were 3 web pages and 1 video that had "something" that was useful. So, I copy-pasted a few bits of code here and there. I managed to get some semblence of a "working" script. But, then the real problem came. I finally managed to get the data printed to the console using a lot of css-selectors BUT, HOW DO I WRITE TO A .CSV OR ANYTHING AT ALL?!?!?!?! So, I tried writing the data to a .txt and...... it didn't work. Apparently I was giving it a ::vector::Vector something something instead of &utf8. This was my breaking point. As a last resort, I googled "How to write to .csv in Rust" After seeing the official documentation they gave I decided that I'm MUCH better off skipping this task.
-### **Why didn't I attempt Task-10?**
-So, the basic foundation for all these tasks is built from task-10 right? So, why didn't I attempt it? It could've been EXTREMELY useful to me as I was an absolute noob to coding, right? Yes. And for me, that was the problem. I know that this sounds weird but, I personally felt that attempting CS-50 was probably playing this game in easy mode.
-That isn't necessarily a bad thing, but I learnt from them bi0s tasks that doing proper research is EXTREMELY important. If I went directly into CS-50, everything I wanted to learn would be right in there! No challenge for me, or something like that. Yeah, I'm a crazy guy lol. I wanted to play on hard mode. So,
-I didn't attempt CS-50 at all and did all the groundwork for each task from the very scratch all by myself. YES, there were times when I just wished I did the course to make these tasks easier. But, at the time of writing: "Do I regret not doing the course?" NO, not A BIT.
-As I mentioned in introspection, having fun is singularly "THE" most important thing for me when it comes to coding. I thoroughly enjoyed doing every task and learning at the same time. I'm sure that it wouldn't be the case if I had everything laid out in front of me. I messed up my JEE because I didn't care to have fun while learning. If there's one thing I can do properly, it's learn from my mistakes.
-I hope you guys excuse me for my thinking. Even you don't, I still learnt a lot by attempting these tasks and hope to carry on the same way throughout the rest of my learning experience.
-### **Why didn't I attempt Task-13?**
-So, I don't know the first thing about Arduino Circuits or hardware or C++. I figured it would just be easier to learn about "coding" than, "coding AND hardware" so I kept pushing this task down
-my list of priorities. If you're reading this, it means that I haven't got it to it "YET" :p
+### **Why I did not attempt Task-05?**
+lol, here's the thing. I DID attempt Task-05. Though, this task proved to be more of a headache than I had expected. There was minimal documentation about web scraping. All I managed to find were three web pages and a single video that had something useful. So, I copy-pasted a few bits of code here and there. I managed to get some semblance of a working script. I finally managed to get the data printed to the console using a lot of CSS-selectors. But for me, the real challenge was writing all that data to a CSV file. So, I tried writing the data to a .txt, and it DID NOT work. Seems, I was giving it a::vector::Vector something instead of &utf8. As a last resort, I googled regarding writing to .csv files. After looking at the official docs I decided that I was MUCH better off skipping this task.
+### **Why I did not attempt Task-10?**
+It is not something that I can answer in writing. Maybe, I will tell you about it if we talk :)
+### **Why I did not attempt Task-13?**
+So, I do not know the first thing about Arduino Circuits or hardware or C++. I figured it would just be easier to learn about coding rather than coding AND hardware so, I kept pushing this task down my list of priorities. If you are reading this, it means that I haven't gotten around to it YET :p
 ### **How did I even stumble upon PyPy3?!?!?!**
-Well..... tbh idk lol. Right when I was starting to solve the problems in Task-3, my code ran just about as fast as a sloth did. So, I asked Google if there was any way to make Python code run faster.
-On every page, this "PyPy3" kept popping up. So, I did a bit of research about it and after managing to drag myself through all the technical abracadabra, I managed to piece together a simple sentence: “If you want your code to run faster, you should probably just use PyPy.” — Guido van Rossum\
-So, yeah I experimented with PyPy3 a lot while solving these tasks.
-### **Why did I use Python wherever I can, when I could've used C/C++ or something else?**
-Yeah, this one is simple. Cuz Python is the only language that I know something about. Yes, I learnt a bit of C and C++ from those bi0s tasks but, at the time of writing I'm more comfortable with coding in Python when compared to C/C++
-## **So, who's this MSReddy character?**
-He's a village-born boy who did his schooling in Hyderabad. He's been tinkering with mobiles, refrigerators, hacking into flash games using Cheat Engine and what-not from his childhood. He got hooked to coding when he learnt a tiny bit of QBASIC at his school. He wanted to learn to code as long as he could remember but, didn't know where to start or how to start. He came all the way to Amritapuri looking for a better future. He thinks he'll accomplish something great someday............ or maybe he won't but, how will he know without trying first?
+Well, tbh idk lol. Right when I was starting to solve the problems in Task-3, my code ran just about as fast as a sloth did. So, I asked Google if there was any way to make Python code run a bit faster.
+On every page, this PyPy3 kept popping up. So, I did a bit of research about it. After finally managing to drag me through all the technical abracadabra, I managed to piece together a simple sentence: “If you want your code to run faster, you should probably just use PyPy.” — Guido van Rossum\
+So, I experimented with PyPy3 a lot while solving these tasks.
+### **Why did I use Python wherever I can, when I could have used C/C++ or something else?**
+Yeah, this one is simple. Python was the only language that I was comfortable with when I started these tasks. Yes, I learned a bit of C from those bi0s tasks but, when starting on these tasks, I was more comfortable with Python. At the time of writing, I am confident enough that I can code in other languages as well.
+## **So, who is this MSReddy character?**
+He is a village-born boy who did his schooling in Hyderabad. He has been tinkering with mobiles, refrigerators, hacking into flash games using Cheat Engine, and what-not from his childhood. He got hooked to coding when he learned a tiny bit of QBASIC at his school. He wanted to learn coding for a long time now. But, he did not know where to start or how to start. He came to Amritapuri seeking a better future. He thinks he will accomplish something great someday............ or maybe not but, how will he know without trying first?

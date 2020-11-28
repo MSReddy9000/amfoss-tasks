@@ -38,6 +38,6 @@ func run() (err error) {
 			return err
 		}
 	}
-	fmt.Println("All ze posts have been upvoted m'Lord!")
+	fmt.Println("All ze posts have been upvoted, m'Lord!")
 	return
 }

@@ -47,7 +47,7 @@ ls\
 cd inhere\
 ls\
 find
-#### **After a ton of googling about find**\
+#### **After a ton of googling about find**
 find ./ -type f -size 1033c ! - executable\
 cd maybehere07\
 ls\
@@ -62,7 +62,7 @@ ls -l -a\
 find -user bandit7 -group bandit6\
 cd\
 find / -user bandit7 -group bandit6 -size 33c
-#### **all files had permission denied except for /var/lib/dpkg/info/bandit7.password So, I figured that was the only place the password could be**\
+#### **all files had permission denied except for /var/lib/dpkg/info/bandit7.password So, I figured that was the only place the password could be**
 cd /var/lib/dpkg/info/ \
 cat bandit7.password
 ### **level-7**
