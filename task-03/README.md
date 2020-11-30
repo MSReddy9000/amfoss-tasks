@@ -41,7 +41,7 @@ Python 3 Interpreter
 Python 3 Interpreter
 ### **Algorithm Used**
 1. Okay so, for quite a long time I thought there was no possible solution to this problem in Python. I didn't even understand that I already knew the solution.
-2. I just used the EXACT same technique(maybe not exact, but pretty similar :p) for this problem as well.
+2. I just used the EXACT same technique(maybe not exact, but pretty similar :p) that I used for "Is This JEE" for this problem as well.
 3. So, in that problem. Acc. to whether the function was increasing/decreasing at the point, I re-adjusted the startDomain and endDomain for the function. So, I did a very similar thing here. I first sorted the list in ascending order(to make things easier) and then configured a starting point(x) and an ending point(y). If the sum was equal to m, then True will be printed out.
 4. If the obtained sum was LESS than m though, it meant x HAD TO BE INCREASED. Why? I just added the smallest and biggest numbers in the whole array. If the sum was STILL LESS it meant that the small number had to be increased.
 5. If the obtained sum was GREATER than m, it's the exact opposite. The GREATER number has to be decreased to fit in the sum.
