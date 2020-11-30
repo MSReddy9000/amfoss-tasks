@@ -38,13 +38,18 @@ Python 3 Interpreter
 100/100
 ## **5. Jack Jack Codes --> JackJackCodes.py**
 ### **Final Submission Interpreter/Compiler**
-PyPy3 Compiler
+Python 3 Interpreter
 ### **Algorithm Used**
-1. I think that this is the hardest question in the whole set, right alongside Pizza Fest.
-2. I just crudely added every element in the list that's not itself and checked if it was equal to m or not. If there's a match, the loop will break
-3. It works for smaller lists but is horrifyingly slow for large lists. I'm at my wit's end here and decided that this was the best I could do. 
+1. Okay so, for quite a long time I thought there was no possible solution to this problem in Python. I didn't even understand that I already knew the solution.
+2. I just used the EXACT same technique(maybe not exact, but pretty similar :p) for this problem as well.
+3. So, in that problem. Acc. to whether the function was increasing/decreasing at the point, I re-adjusted the startDomain and endDomain for the function. So, I did a very similar thing here. I first sorted the list in ascending order(to make things easier) and then configured a starting point(x) and an ending point(y). If the sum was equal to m, then True will be printed out.
+4. If the obtained sum was LESS than m though, it meant x HAD TO BE INCREASED. Why? I just added the smallest and biggest numbers in the whole array. If the sum was STILL LESS it meant that the small number had to be increased.
+5. If the obtained sum was GREATER than m, it's the exact opposite. The GREATER number has to be decreased to fit in the sum.
+6. I just looped through this as long as x was less than y (unlike in task-12, I ran the loop for a fixed no. of times)
+7. I also set an identifier variable for recognizing if we obtained a proper solution or not. If a pair was found, the identifier would be changed to 1
+8. In the end, I added a few lines to see if the identifier was still 0 (i.e. no proper solution) and if it was the case, print out False
 ### **Points obtained**
-80/100
+100/100
 ## **6. Infinity Stones --> InfinityStones.py**
 ### **Final Submission Interpreter/Compiler**
 PyPy3 Compiler
@@ -98,4 +103,4 @@ Python 3 Interpreter
 100/100
 
 ### **Total Accumulated Points at time of writing**
-922.86/1000
+942.86/1000
